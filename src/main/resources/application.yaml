@@ -1,8 +1,0 @@
-server:
-  port: 8081
-
-student:
-  name: sky
-  age: 3
-
-pets: [cat,dog,eleplant]
