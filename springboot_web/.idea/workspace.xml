@@ -63,17 +63,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Springboot03WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot_web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.Springboot03WebApplication" />
@@ -95,6 +84,7 @@
       <workItem from="1603094759190" duration="12622000" />
       <workItem from="1603249083445" duration="16110000" />
       <workItem from="1603328340310" duration="16336000" />
+      <workItem from="1603360118963" duration="28000" />
     </task>
     <servers />
   </component>
