@@ -1,16 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1567170c-eca7-43ed-a26a-c48162299b33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:\IDEA\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="C:\Users\sky\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1jEDc3HiV6fq3tJ2TM6W1oHNfNu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot04DataApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04DataApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-04-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sky" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.Springboot04DataApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Springboot04DataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-04-data" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.Springboot04DataApplication" />
@@ -18,5 +77,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot04DataApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1567170c-eca7-43ed-a26a-c48162299b33" name="Default Changelist" comment="" />
+      <created>1603360432497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603360432497</updated>
+      <workItem from="1603360434874" duration="9237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="9" width="816" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603365387824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="221" y="9" width="816" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603365387824" />
+    <state width="1323" height="269" key="GridCell.Tab.0.bottom" timestamp="1603373303037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="269" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603373303037" />
+    <state width="1323" height="269" key="GridCell.Tab.0.center" timestamp="1603373303037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="269" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603373303037" />
+    <state width="1323" height="269" key="GridCell.Tab.0.left" timestamp="1603373303036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="269" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603373303036" />
+    <state width="1323" height="269" key="GridCell.Tab.0.right" timestamp="1603373303037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="269" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603373303037" />
+    <state width="1323" height="149" key="GridCell.Tab.1.bottom" timestamp="1603373303004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603373303004" />
+    <state width="1323" height="149" key="GridCell.Tab.1.center" timestamp="1603373303003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603373303003" />
+    <state width="1323" height="149" key="GridCell.Tab.1.left" timestamp="1603373303003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603373303003" />
+    <state width="1323" height="149" key="GridCell.Tab.1.right" timestamp="1603373303004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603373303004" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1603364719874">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1603364719874" />
+    <state x="465" y="123" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1603370794535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="465" y="123" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1603370794535" />
+    <state x="48" y="21" key="new project wizard" timestamp="1603373300885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="48" y="21" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603373300885" />
   </component>
 </project>
