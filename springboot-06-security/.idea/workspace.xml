@@ -28,6 +28,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -49,6 +56,17 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Springboot06SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-06-security" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.Springboot06SecurityApplication" />
@@ -65,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603424221416</updated>
-      <workItem from="1603424223416" duration="1413000" />
+      <workItem from="1603424223416" duration="5768000" />
     </task>
     <servers />
   </component>
@@ -82,5 +100,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="57" width="652" height="590" key="#com.intellij.ide.util.MemberChooser" timestamp="1603439024556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="57" width="652" height="590" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603439024556" />
   </component>
 </project>
