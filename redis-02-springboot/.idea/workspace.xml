@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df973d6a-5004-4631-aa4c-ff9b125a5b68" name="Default Changelist" comment="" />
+    <list default="true" id="11949f0c-139a-41f3-8775-6557a8fc5ec5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +45,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1jGItmUT6eq9NC5Ilely3gXK9fy" />
+  <component name="ProjectId" id="1jSiDRYSmO4CgJzv7s9wDF6fTm8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -55,14 +55,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.5650591" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
-    <configuration name="Springboot06SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="springboot-06-security" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.Springboot06SecurityApplication" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis02SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-02-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.Redis02SpringbootApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,15 +82,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df973d6a-5004-4631-aa4c-ff9b125a5b68" name="Default Changelist" comment="" />
-      <created>1603424221416</created>
+      <changelist id="11949f0c-139a-41f3-8775-6557a8fc5ec5" name="Default Changelist" comment="" />
+      <created>1603803776396</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603424221416</updated>
-      <workItem from="1603424223416" duration="5768000" />
-      <workItem from="1603621789224" duration="95000" />
-      <workItem from="1603626588893" duration="93000" />
-      <workItem from="1603788516776" duration="2242000" />
+      <updated>1603803776396</updated>
+      <workItem from="1603803778415" duration="5468000" />
     </task>
     <servers />
   </component>
@@ -96,24 +104,15 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="113" y="0" key="#Project_Structure" timestamp="1603788652761">
+    <state x="138" y="0" key="#Project_Structure" timestamp="1603803865098">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="113" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1603788652761" />
-    <state x="447" y="57" width="652" height="590" key="#com.intellij.ide.util.MemberChooser" timestamp="1603439024556">
+    <state x="138" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1603803865098" />
+    <state x="88" y="0" width="1075" height="712" key="SettingsEditor" timestamp="1603805065123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="447" y="57" width="652" height="590" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603439024556" />
-    <state x="19" y="3" width="1310" height="712" key="SettingsEditor" timestamp="1603788804521">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="19" y="3" width="1310" height="712" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603788804521" />
-    <state x="63" y="16" key="new project wizard" timestamp="1603803773238">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="63" y="16" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603803773238" />
+    <state x="88" y="0" width="1075" height="712" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603805065123" />
   </component>
 </project>
