@@ -26,8 +26,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         auth.inMemoryAuthentication().passwordEncoder(new BCryptPasswordEncoder()).
                 withUser("sky").password(new BCryptPasswordEncoder().encode("123456")).roles("vip2","vip3").and().
                 withUser("root").password(new BCryptPasswordEncoder().encode("123456")).roles("vip1","vip2","vip3").and().
-                withUser("guest").password(new BCryptPasswordEncoder().encode("123456")).roles("vip1").and().
-                withUser("zzz").password(new BCryptPasswordEncoder().encode("123456")).roles("vip3");
+                withUser("guest").password(new BCryptPasswordEncoder().encode("123456")).roles("vip1");
 
 
     }
