@@ -54,23 +54,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../zookeeper/dubbo-admin-master" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.5650591" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Redis02SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="redis-02-springboot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.Redis02SpringbootApplication" />
@@ -88,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603803776396</updated>
       <workItem from="1603803778415" duration="5469000" />
+      <workItem from="1603848866731" duration="898000" />
     </task>
     <servers />
   </component>
@@ -104,12 +95,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="138" y="0" key="#Project_Structure" timestamp="1603803865098">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="138" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1603803865098" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603852846762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603852846762" />
     <state x="88" y="0" width="1075" height="712" key="SettingsEditor" timestamp="1603805065123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -19,11 +19,6 @@ public class RedisConfig {
             throws UnknownHostException {
         RedisTemplate<String, Object> template = new RedisTemplate();
 
-        Jackson2JsonRedisSerializer<Object> objectJackson2JsonRedisSerializer= new  Jackson2JsonRedisSerializer<Object>();
-
-        
-
-
         template.setConnectionFactory(redisConnectionFactory);
         return template;
     }
