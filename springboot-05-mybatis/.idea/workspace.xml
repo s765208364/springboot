@@ -45,6 +45,17 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager" selected="Spring Boot.Springboot05MybatisApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Springboot05MybatisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-05-mybatis" />
       <extension name="coverage">
@@ -85,6 +96,7 @@
       <workItem from="1603373305598" duration="3692000" />
       <workItem from="1603415775344" duration="7817000" />
       <workItem from="1603424049371" duration="170000" />
+      <workItem from="1604317827540" duration="4949000" />
     </task>
     <servers />
   </component>
