@@ -15,11 +15,6 @@ public class LeetCode34 {
 
         }
         fast = head;
-        while(slow!=fast){
-            slow=slow.next;
-            fast=fast.next;
-
-        }
 
         return fast;
     }
