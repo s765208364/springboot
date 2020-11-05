@@ -16,6 +16,8 @@ public class LeetCode34 {
         }
         fast = head;
 
+        
+        //asadcdcadasd
         return fast;
     }
 
