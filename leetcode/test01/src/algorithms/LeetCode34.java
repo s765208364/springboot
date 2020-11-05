@@ -16,8 +16,12 @@ public class LeetCode34 {
         }
         fast = head;
 
-        
-        //asadcdcadasd
+        if(fast!=slow){
+            fast=fast.next;
+            slow=slow.next;
+
+        }
+
         return fast;
     }
 
