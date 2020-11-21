@@ -1,7 +1,5 @@
 package hot100;
-
 import java.util.List;
-
 public class Hot23 {
     public ListNode mergeKLists(ListNode[] lists) {
         return merge(lists,0, lists.length-1);
