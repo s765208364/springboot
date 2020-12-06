@@ -25,7 +25,7 @@ public class Hot34 {
             resultleft--;
         }
 
-        while(nums[resultright!=target&&resultright<nums.length){
+        while(nums[resultright]!=target&&resultright<nums.length){
             resultright++;
         }
         return new int[]{resultleft,resultright};
