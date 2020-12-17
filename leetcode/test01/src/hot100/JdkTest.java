@@ -1,7 +1,6 @@
 package hot100;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
+import java.util.*;
 
 public class JdkTest {
 
@@ -9,8 +8,11 @@ public class JdkTest {
         LinkedList<Integer> linkedList = new LinkedList<>();
         ArrayList<Integer> arrayList = new ArrayList<>();
 
+        Map<Integer,Integer> hashMap = new HashMap<>();
+        Set<Integer> hashSet = new HashSet<>();
+        Map<Integer,Integer> hashTable = new Hashtable<>();
 
-        System.out.println(arrayList.size());
+
     }
 
 }
