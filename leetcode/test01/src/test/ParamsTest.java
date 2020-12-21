@@ -1,11 +1,14 @@
 package test;
 
+import java.nio.channels.SocketChannel;
+
 public class ParamsTest {
     public int A(float b){
+        int a=1;
         return 1;
     }
     public void B(float a){
-
+        SocketChannel
 
     }
 
