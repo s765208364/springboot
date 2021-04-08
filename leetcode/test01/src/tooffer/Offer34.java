@@ -1,6 +1,7 @@
 package tooffer;
 
 import hot100.TreeNode;
+import test.Tree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -19,12 +20,17 @@ public class Offer34 {
         path.add(root.val);
         tar-=root.val;
 
+      //  path.addLast();
         if(tar==0&&root.left==null&&root.right==null)
             res.add(new LinkedList<>(path));
 
         recur(root.left,tar);
         recur(root.right,tar);
         path.removeLast();
+
     }
+
+
+
 
 }
