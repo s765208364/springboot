@@ -2,9 +2,8 @@ package hot100;
 
 import java.time.Period;
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.CopyOnWriteArrayList;
-import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.*;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class JdkTest {
 
@@ -28,16 +27,20 @@ public class JdkTest {
         Arrays.sort(new int[0]);
      //   hashtable.put(null,1);
         hashtable.put(1,null);
-
+        Queue queue;
+        Map<Integer,Integer> map;
+        Set<Integer> set;
+        List list;
         //String
         String s_string= new String("123");
         StringBuffer s_stringbuffer;
         StringBuilder s_stringbuilder;
-
+        LinkedHashMap linkedHashMap;
+        Executors executors;
         ThreadPoolExecutor threadPoolExecutor;
+        ReentrantLock reentrantLock;
 
     }
-
 
 }
 
